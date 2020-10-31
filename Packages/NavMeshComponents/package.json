@@ -1,0 +1,18 @@
+{
+  "name": "com.unity.navmeshcomponents",
+  "version": "1.0.0",
+  "displayName": "Unity Nav Mesh Components (Forked)",
+  "description": "Components for Runtime NavMesh Building\r\nHere we introduce four components for the navigation system:\r\n\r\nNavMeshSurface \u2013 for building and enabling a NavMesh surface for one agent type.\r\nNavMeshModifier \u2013 affects the NavMesh generation of NavMesh area types, based on the transform hierarchy.\r\nNavMeshModifierVolume \u2013 affects the NavMesh generation of NavMesh area types, based on volume.\r\nNavMeshLink \u2013 connects same or different NavMesh surfaces for one agent type.\r\nThese components comprise the high level controls for building and using NavMeshes at runtime as well as edit time.\r\n\r\nDetailed information can be found in the Documentation section or in the NavMesh building components section of the Unity Manual.",
+  "unity": "2020.1",
+  "author": {
+    "name": "Unity Technologies"
+  },
+  "samples":
+  [
+    {
+      "displayName": "Sample",
+      "description": "Sample",
+      "path": "Samples~/Examples"
+    }
+  ]
+}
